@@ -1,14 +1,14 @@
-# Olá! Eu sou a Sofia Rodrigues da Silva
+# Olá! Eu sou a Sofia Rodrigues 
 
-Tenho 16 anos e sou de Jaboticabal - SP. Atualmente estou no 2° ano e gosto de aprender coisas novas, conhecer pessoas e me divertir no processo. 😄
+Tenho 16 anos e sou de Jaboticabal - SP. Atualmente estou no 2° ano e gosto de aprender coisas novas, conhecer pessoas e me divertir no processo. 
 
-## 💫 Sobre mim
+## Sobre mim
 
 Sou uma pessoa **comunicativa e engraçada**, que gosta de aprender coisas novas e melhorar cada vez mais minhas habilidades.
 
-No meu tempo livre, gosto de **música, esportes e redes sociais**. 🎵🏐📱
+No meu tempo livre, gosto de **música, esportes e redes sociais**. 🎵
 
-Também sou apaixonada por **amarelo e girassóis**. 🌻💛
+Também sou apaixonada por **amarelo e girassóis**. 💛
 
 ## 💻 Tecnologias
 
@@ -58,7 +58,7 @@ Já fiz projetos e tenho interesse em criar um **aplicativo** no futuro. 📱
 
 Meu principal objetivo com a programação é **melhorar minhas habilidades**, continuar aprendendo e evoluindo aos poucos. 🚀
 
-Quando meu código dá erro, geralmente tento resolver sozinho, pesquiso na internet ou pergunto para algum colega. Às vezes fico perdida por alguns minutos, mas depois tento novamente. 😅
+Quando meu código dá erro, geralmente tento resolver sozinho, pesquiso na internet ou pergunto para algum colega. Às vezes fico perdida por alguns minutos, mas depois tento novamente. 
 
 ---
 
