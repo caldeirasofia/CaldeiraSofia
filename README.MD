@@ -1,4 +1,4 @@
-# 🌻 Olá! Eu sou a Sofia Rodrigues da Silva
+# Olá! Eu sou a Sofia Rodrigues da Silva
 
 Tenho 16 anos e sou de Jaboticabal - SP. Atualmente estou no 2° ano e gosto de aprender coisas novas, conhecer pessoas e me divertir no processo. 😄
 
